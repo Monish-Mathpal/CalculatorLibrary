@@ -1,0 +1,19 @@
+atomicwrites @ file:///home/conda/feedstock_root/build_artifacts/atomicwrites_1588182545583/work
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1640799537051/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+coverage @ file:///D:/bld/coverage_1643775921906/work
+flake8 @ file:///home/conda/feedstock_root/build_artifacts/flake8_1635888175357/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1622064239707/work
+iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1603384189793/work
+mccabe==0.6.1
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pluggy @ file:///D:/bld/pluggy_1635832967898/work
+py @ file:///home/conda/feedstock_root/build_artifacts/py_1636301881863/work
+pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1633982426610/work
+pyflakes @ file:///home/conda/feedstock_root/build_artifacts/pyflakes_1633634815271/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1642753572664/work
+pytest==7.0.1
+pytest-cov @ file:///home/conda/feedstock_root/build_artifacts/pytest-cov_1633356845954/work
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1643828507773/work
