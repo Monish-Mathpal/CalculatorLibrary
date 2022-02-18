@@ -1,19 +1,39 @@
-atomicwrites @ file:///home/conda/feedstock_root/build_artifacts/atomicwrites_1588182545583/work
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1640799537051/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
-coverage @ file:///D:/bld/coverage_1643775921906/work
-flake8 @ file:///home/conda/feedstock_root/build_artifacts/flake8_1635888175357/work
-importlib-metadata @ file:///D:/bld/importlib-metadata_1622064239707/work
-iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1603384189793/work
-mccabe==0.6.1
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
-pluggy @ file:///D:/bld/pluggy_1635832967898/work
-py @ file:///home/conda/feedstock_root/build_artifacts/py_1636301881863/work
-pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1633982426610/work
-pyflakes @ file:///home/conda/feedstock_root/build_artifacts/pyflakes_1633634815271/work
-pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1642753572664/work
-pytest==7.0.1
-pytest-cov @ file:///home/conda/feedstock_root/build_artifacts/pytest-cov_1633356845954/work
-toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
-tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1643828507773/work
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+atomicwrites=1.4.0=pyh9f0ad1d_0
+attrs=21.4.0=pyhd8ed1ab_0
+bzip2=1.0.8=h8ffe710_4
+ca-certificates=2021.10.8=h5b45459_0
+colorama=0.4.4=pyh9f0ad1d_0
+coverage=6.3.1=py39hb82d6ee_0
+flake8=4.0.1=pyhd8ed1ab_1
+importlib-metadata=4.2.0=py39hcbf5309_0
+iniconfig=1.1.1=pyh9f0ad1d_0
+libffi=3.4.2=h8ffe710_5
+libzlib=1.2.11=h8ffe710_1013
+mccabe=0.6.1=py_1
+openssl=3.0.0=h8ffe710_2
+packaging=21.3=pyhd8ed1ab_0
+pip=22.0.3=pyhd8ed1ab_0
+pluggy=1.0.0=py39hcbf5309_2
+py=1.11.0=pyh6c4a22f_0
+pycodestyle=2.8.0=pyhd8ed1ab_0
+pyflakes=2.4.0=pyhd8ed1ab_0
+pyparsing=3.0.7=pyhd8ed1ab_0
+pytest=7.0.1=py39hcbf5309_0
+pytest-cov=3.0.0=pyhd8ed1ab_0
+python=3.9.10=hcf16a7b_2_cpython
+python_abi=3.9=2_cp39
+setuptools=60.9.3=py39hcbf5309_0
+sqlite=3.37.0=h8ffe710_0
+tk=8.6.12=h8ffe710_0
+toml=0.10.2=pyhd8ed1ab_0
+tomli=2.0.1=pyhd8ed1ab_0
+tzdata=2021e=he74cb21_0
+ucrt=10.0.20348.0=h57928b3_0
+vc=14.2=hb210afc_6
+vs2015_runtime=14.29.30037=h902a5da_6
+wheel=0.37.1=pyhd8ed1ab_0
+xz=5.2.5=h62dcd97_1
+zipp=3.7.0=pyhd8ed1ab_1
